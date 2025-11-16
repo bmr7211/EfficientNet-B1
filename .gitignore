@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# 데이터셋
+datasets/
+
+# 학습 파일
+classifier_model_train.py
